@@ -1,0 +1,61 @@
+.contentTable {
+  width: 100%;
+  background: #fff;
+  overflow: hidden;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 20px;
+  border-bottom: 1px solid #e1e4e8 !important;
+  border-top: 1px solid #e1e4e8 !important;
+  text-align: left;
+}
+
+tbody {
+  width: 100%;
+}
+
+.row-data:hover {
+  background: #d1dff0;
+  border: 1.01px solid #349ed8;
+}
+
+td {
+  padding: 10px 0 10px 20px;
+  border-bottom: 1px solid #e1e4e8 !important;
+}
+
+.second-row {
+  font-family: 'SF Pro Text';
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #24292e;
+}
+
+.green-button {
+  background: #18d399;
+  border-radius: 6px;
+  outline: none;
+  border: 0px;
+  gap: 8px;
+  align-items: center;
+  padding: 6px 16px;
+  margin-left: 10px;
+}
+
+.sortTitle {
+  display: flex;
+  text-align: left;
+}
+
+
+.buttonSort {
+  background: transparent;
+  cursor: pointer;
+}

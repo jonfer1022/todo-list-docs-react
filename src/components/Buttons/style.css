@@ -1,0 +1,40 @@
+.addbtn {
+  background: #487BB1;
+  border-radius: 30px;
+  color: white;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+  padding: 0 10px;
+  font-size: 15px;
+}
+
+.disable-btn {
+  background: #B2B7BD;
+  border-radius: 30px;
+  color: white;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+  padding: 0 10px;
+  font-size: 15px;
+}
+
+.addbtn:hover {
+  background: #6B95C3;
+}
+
+.neutralbtn {
+  border: 1px solid #39618C;
+  border-radius: 66px;
+  background: #FFFFFF;
+  color: #39618C;
+  height: 40px;
+  cursor: pointer;
+  padding: 0 10px;
+  font-size: 15px;
+}
+
+.neutralbtn:hover {
+  background: #DAE5F0;
+}

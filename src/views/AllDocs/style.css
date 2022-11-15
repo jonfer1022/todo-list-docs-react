@@ -1,0 +1,17 @@
+.header-docs {
+  padding: 15px;
+  text-align: right;
+}
+
+.actionsTableDocs div {
+  display: inline;
+  padding-right: 10px;
+}
+
+.modalCreate .modal-body .input-group{
+  margin-bottom: 10px;
+}
+
+.modalCreate .modal-body .input-group:last-child{
+  margin-bottom: 0px;
+}
